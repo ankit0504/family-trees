@@ -46,7 +46,7 @@
     },
     {
       "name": "Lekhi Sabharwal",
-      "spouse": "",
+      "spouse": "Virender Sabharwal",
       "icon": "static/default.png",
       "children": [
         {
@@ -135,7 +135,7 @@
     },
     {
       "name": "Anil Bhasin",
-      "spouse": "",
+      "spouse": "Uma Bhasin",
       "icon": "static/default.png",
       "children": [
         {
@@ -174,7 +174,7 @@
     },
     {
       "name": "Rakesh (Pinky) Bhasin",
-      "spouse": "",
+      "spouse": "Seema Bhasin",
       "icon": "static/default.png",
       "children": [
         {
@@ -191,7 +191,7 @@
     },
     {
       "name": "Rajesh Bhasin",
-      "spouse": "",
+      "spouse": "Archana Bhasin",
       "icon": "static/default.png",
       "children": [
         {
