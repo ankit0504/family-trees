@@ -45,6 +45,35 @@
       ]
     },
     {
+      "name": "Sushil Bhasin",
+      "spouse": "Amita Bhasin",
+      "icon": "static/default.png",
+      "children": [
+        {
+          "name": "Kanika Bhasin",
+          "spouse": "-",
+          "icon": "static/default.png"
+        },
+        {
+          "name": "Sonia Baryha",
+          "spouse": "Rohit Baryha",
+          "icon": "static/default.png",
+          "children": [
+            {
+              "name": "Molly Baryha",
+              "spouse": "-",
+              "icon": "static/default.png"
+            },
+            {
+              "name": "Aravali Baryha",
+              "spouse": "-",
+              "icon": "static/default.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Lekhi Sabharwal",
       "spouse": "Virender Sabharwal",
       "icon": "static/default.png",
@@ -203,35 +232,6 @@
           "name": "Punya Bhasin",
           "spouse": "-",
           "icon": "static/default.png"
-        }
-      ]
-    },
-    {
-      "name": "Sushil Bhasin",
-      "spouse": "Amita Bhasin",
-      "icon": "static/default.png",
-      "children": [
-        {
-          "name": "Kanika Bhasin",
-          "spouse": "-",
-          "icon": "static/default.png"
-        },
-        {
-          "name": "Sonia Baryha",
-          "spouse": "Rohit Baryha",
-          "icon": "static/default.png",
-          "children": [
-            {
-              "name": "Molly Baryha",
-              "spouse": "-",
-              "icon": "static/default.png"
-            },
-            {
-              "name": "Aravali Baryha",
-              "spouse": "-",
-              "icon": "static/default.png"
-            }
-          ]
         }
       ]
     },
