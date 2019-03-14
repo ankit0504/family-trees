@@ -223,12 +223,12 @@
           "children": [
             {
               "name": "Molly Baryha",
-              "spouse": "",
+              "spouse": "-",
               "icon": "static/default.png"
             },
             {
               "name": "Aravali Baryha",
-              "spouse": "",
+              "spouse": "-",
               "icon": "static/default.png"
             }
           ]
@@ -242,7 +242,7 @@
       "children": [
         {
           "name": "Shikha Chadha Trehon",
-          "spouse": "",
+          "spouse": "Anoop Trehon",
           "icon": "static/default.png",
           "children": [
             {
@@ -269,7 +269,7 @@
             },
             {
               "name": "Aarav Choudhari",
-              "spouse": "",
+              "spouse": "-",
               "icon": "static/default.png"
             }
           ]
