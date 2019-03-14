@@ -1,0 +1,297 @@
+{
+  "name": "Inder Jeet Bhasin",
+  "spouse": "Prakash Devi",
+  "icon": "static/default.png",
+  "children":[
+    {
+      "name": "Chandra Kanta Bhasin",
+      "spouse": "Bharat Bhushan Chadha",
+      "icon": "static/chandraKantaBhasin.jpg",
+      "children": [
+        {
+          "name": "Vanita Chadha Gupta",
+          "spouse": "Rajat Gupta",
+          "icon": "static/vanitaChadhaGupta.jpg",
+          "children":[
+            {
+              "name": "Anushka Gupta",
+              "spouse": "-",
+              "icon": "static/anushkaGupta.jpg"
+            },
+            {
+              "name": "Ankit Gupta",
+              "spouse": "-",
+              "icon": "static/ankitGupta.png"
+            }
+          ]
+        },
+        {
+          "name": "Hiten Chadha",
+          "spouse": "Shivani Bhat Chadha",
+          "icon": "static/hitenChadha.jpg",
+          "children": [
+            {
+              "name": "Rushil Chadha",
+              "spouse": "-",
+              "icon": "static/rushilChadha.png"
+            },
+            {
+              "name": "Reet Chadha",
+              "spouse": "-",
+              "icon": "static/reetChadha.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lekhi Sabharwal",
+      "spouse": "",
+      "icon": "static/default.png",
+      "children": [
+        {
+          "name": "Harsh Sabharwal",
+          "spouse": "Nisha Sabharwal",
+          "icon": "static/default.png",
+          "children": [
+            {
+              "name": "Luvina Sabharwal",
+              "spouse": "-",
+              "icon": "static/default.png"
+            }
+          ]
+        },
+        {
+          "name": "Anju Batra",
+          "spouse": "Jalaj Batra",
+          "icon": "static/default.png",
+          "children": [
+            {
+              "name": "Cheryl Batra",
+              "spouse": "-",
+              "icon": "static/default.png"
+            },
+            {
+              "name": "Teryl Batra",
+              "spouse": "-",
+              "icon": "static/default.png"
+            },
+            {
+              "name": "Terence Batra",
+              "spouse": "-",
+              "icon": "static/default.png"
+            }
+          ]
+        },
+        {
+          "name": "Reena Sabharwal",
+          "spouse": "Vikram Arora",
+          "icon": "static/default.png",
+          "children": [
+            {
+              "name": "Sanya Arora",
+              "spouse": "-",
+              "icon": "static/default.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bina Suri",
+      "spouse": "Arun Suri",
+      "icon": "static/default.png",
+      "children": [
+        {
+          "name": "Kushil Suri",
+          "spouse": "Kusum Suri",
+          "icon": "static/default.png",
+          "children": [
+            {
+              "name": "Manya Suri",
+              "spouse": "-",
+              "icon": "static/default.png"
+            }
+          ]
+        },
+        {
+          "name": "Prabhat Suri",
+          "spouse": "Niki Suri",
+          "icon": "static/default.png",
+          "children": [
+            {
+              "name": "Janya Suri",
+              "spouse": "-",
+              "icon": "static/default.png"
+            },
+            {
+              "name": "Yatharth Suri",
+              "spouse": "-",
+              "icon": "static/default.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anil Bhasin",
+      "spouse": "",
+      "icon": "static/default.png",
+      "children": [
+        {
+          "name": "Mohit Bhasin",
+          "spouse": "-",
+          "icon": "static/default.png"
+        },
+        {
+          "name": "Hardika Bhasin",
+          "spouse": "Rahul Suri",
+          "icon": "static/default.png"
+        }
+      ]
+    },
+    {
+      "name": "Sunil Bhasin",
+      "spouse": "Poonam Bhasin",
+      "icon": "static/default.png",
+      "children": [
+        {
+          "name": "Madhur (Kush) Bhasin",
+          "spouse": "-",
+          "icon": "static/default.png"
+        },
+        {
+          "name": "Dhruv Bhasin",
+          "spouse": "-",
+          "icon": "static/default.png"
+        },
+        {
+          "name": "Satwick Bhasin",
+          "spouse": "-",
+          "icon": "static/default.png"
+        }
+      ]
+    },
+    {
+      "name": "Rakesh (Pinky) Bhasin",
+      "spouse": "",
+      "icon": "static/default.png",
+      "children": [
+        {
+          "name": "Shrey Bhasin",
+          "spouse": "-",
+          "icon": "static/default.png"
+        },
+        {
+          "name": "Sourabh Bhasin",
+          "spouse": "-",
+          "icon": "static/default.png"
+        }
+      ]
+    },
+    {
+      "name": "Rajesh Bhasin",
+      "spouse": "",
+      "icon": "static/default.png",
+      "children": [
+        {
+          "name": "Parth Bhasin",
+          "spouse": "-",
+          "icon": "static/default.png"
+        },
+        {
+          "name": "Punya Bhasin",
+          "spouse": "-",
+          "icon": "static/default.png"
+        }
+      ]
+    },
+    {
+      "name": "Sushil Bhasin",
+      "spouse": "Amita Bhasin",
+      "icon": "static/default.png",
+      "children": [
+        {
+          "name": "Kanika Bhasin",
+          "spouse": "-",
+          "icon": "static/default.png"
+        },
+        {
+          "name": "Sonia Baryha",
+          "spouse": "Rohit Baryha",
+          "icon": "static/default.png",
+          "children": [
+            {
+              "name": "Molly Baryha",
+              "spouse": "",
+              "icon": "static/default.png"
+            },
+            {
+              "name": "Baryha",
+              "spouse": "",
+              "icon": "static/default.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shail Chadha",
+      "spouse": "Lav Chadha",
+      "icon": "static/default.png",
+      "children": [
+        {
+          "name": "Shikha Chadha Trehon",
+          "spouse": "",
+          "icon": "static/default.png",
+          "children": [
+            {
+              "name": "Manav Trehon",
+              "spouse": "-",
+              "icon": "static/default.png"
+            },
+            {
+              "name": "Pranav Trehon",
+              "spouse": "-",
+              "icon": "static/default.png"
+            }
+          ]
+        },
+        {
+          "name": "Shweta Choudhari",
+          "spouse": "Ashish Choudhari",
+          "icon": "static/default.png",
+          "children": [
+            {
+              "name": "Abheek Choudhari",
+              "spouse": "-",
+              "icon": "static/default.png"
+            },
+            {
+              "name": "Aarav Choudhari",
+              "spouse": "",
+              "icon": "static/default.png"
+            }
+          ]
+        },
+        {
+          "name": "Neha Chadha Ruparel",
+          "spouse": "Hameer Ruparel",
+          "icon": "static/default.png",
+          "children": [
+            {
+              "name": "Hridya Ruparel",
+              "spouse": "-",
+              "icon": "static/default.png"
+            },
+            {
+              "name": "Vivaan Ruparel",
+              "spouse": "-",
+              "icon": "static/default.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
