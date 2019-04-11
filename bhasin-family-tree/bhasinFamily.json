@@ -50,11 +50,6 @@
       "icon": "static/default.png",
       "children": [
         {
-          "name": "Kanika Bhasin",
-          "spouse": "-",
-          "icon": "static/default.png"
-        },
-        {
           "name": "Sonia Baryha",
           "spouse": "Rohit Baryha",
           "icon": "static/default.png",
@@ -70,6 +65,11 @@
               "icon": "static/default.png"
             }
           ]
+        },
+        {
+          "name": "Kanika Bhasin",
+          "spouse": "-",
+          "icon": "static/default.png"
         }
       ]
     },
